@@ -1,4 +1,3 @@
-# Perl-MODIS-Vegetation-Analysis
 # MODIS Vegetation Index Processing Pipeline
 
 ## Project Overview
